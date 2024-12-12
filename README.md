@@ -12,20 +12,20 @@ A simple Go-based TCP port scanner that allows you to scan specific or all TCP p
 
 ## Requirements
 
-- Go 1.x or higher.
+- Go 1.18 or higher.
 
 ## Installation
 
 1. Clone the repository or download the source code:
 
    ```bash
-   git clone https://github.com/yourusername/tcp-port-scanner.git
+   git clone https://github.com/Mogra12/TCP-Portscanner
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd tcp-port-scanner
+   cd TCP-Portscanner
    ```
 
 3. Build the application:
